@@ -1,0 +1,8 @@
+{
+  "name": "simple-node-angular-server",
+  "description": "A simple server running html5 mode for AngularJS",
+  "repository": "https://github.com/DanHeavey/simple-node-angular-server",
+  "devDependencies": {
+    "express": "3.4.8"
+    }
+}
